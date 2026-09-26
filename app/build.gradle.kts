@@ -32,6 +32,7 @@ android {
 }
 
 dependencies {
+    // en la primera línea encontramos la importación a la librería
     implementation("androidx.core:core-splashscreen:1.0.0")
     implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.appcompat)

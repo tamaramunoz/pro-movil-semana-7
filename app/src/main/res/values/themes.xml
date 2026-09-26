@@ -6,7 +6,7 @@
 
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/blue</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_mywallet</item>
         <item name="postSplashScreenTheme">@style/Theme.Tamara_munoz_20260923</item>
     </style>
 </resources>
