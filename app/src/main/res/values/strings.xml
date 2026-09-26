@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tamara_munoz_20260923</string>
+    <string name="enter">Ingresar</string>
+    <string name="welcome">My Wallet</string>
+    <string name="password">Contraseña</string>
+    <string name="user">Usuario</string>
+    <string name="close">Cerrar Sesión</string>
+</resources>
